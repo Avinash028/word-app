@@ -1,8 +1,7 @@
-# word-app
-
 **Word App**
 ============
-https://word-app-frontend.web.app/
+App Link : https://word-app-frontend.web.app/
+GitHub : https://github.com/Avinash028/word-app
 
 **Tech Stack Used**
  1. Node JS : For API's to add, view, update and delete words.
@@ -29,7 +28,3 @@ https://word-app-frontend.web.app/
 
 **Link for Frontend app**
 https://word-app-frontend.web.app/
-
- 
-
- 
