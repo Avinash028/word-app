@@ -1,0 +1,35 @@
+.wordRow {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgrey;
+    margin: auto;
+}
+
+.word {
+    flex: 0.70;
+}
+
+.updateBtn {
+    flex: 0.15;
+    margin-right: 10px;
+    background-color: #5bc0de;
+    font-weight: 600;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.deleteBtn {
+    flex: 0.15;
+    background-color: #d9534f;
+    font-weight: 600;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.input {
+    margin-right: 10px;
+}

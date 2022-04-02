@@ -1,0 +1,30 @@
+.App {
+  width: 60%;
+  margin: auto;
+  min-width: 400px;
+  align-items: center;
+}
+
+.addBtn{
+  background-color: #5cb85c;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.addWord {
+  display: flex;
+  margin-bottom: 20px;
+  margin-left: 10%;
+}
+
+.addWord{
+  margin-top: 20px;
+}
+
+.all__words {
+  height: 600px;
+  overflow-y: auto;
+}
+
